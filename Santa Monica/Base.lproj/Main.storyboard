@@ -78,6 +78,9 @@
                                         <include reference="ecg-7w-PAp"/>
                                     </mask>
                                 </variation>
+                                <connections>
+                                    <action selector="tweetButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="hbG-GI-IG0"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -106,7 +109,6 @@
                                 <exclude reference="UF0-FN-ID0"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="R0O-sw-Xc6"/>
                                 <exclude reference="3cQ-g7-qiQ"/>
                                 <exclude reference="EnC-Wx-L9W"/>
                                 <exclude reference="Gyc-4A-ZuS"/>
@@ -118,6 +120,7 @@
                                 <exclude reference="Ca3-wL-e1J"/>
                                 <exclude reference="OwJ-GB-wrW"/>
                                 <exclude reference="lXQ-Ut-rE6"/>
+                                <exclude reference="R0O-sw-Xc6"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
@@ -143,12 +146,12 @@
                                 <include reference="jXu-6b-cWj"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="R0O-sw-Xc6"/>
                                 <include reference="3cQ-g7-qiQ"/>
                                 <include reference="EnC-Wx-L9W"/>
                                 <include reference="Gyc-4A-ZuS"/>
                                 <include reference="lXV-Hz-QmM"/>
                                 <include reference="Ca3-wL-e1J"/>
+                                <include reference="R0O-sw-Xc6"/>
                             </mask>
                         </variation>
                     </view>
