@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F61460D9-4903-4097-91DF-99AB57D957D6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Santa Monica</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1BEF06C5F01E3B69CE02399FAE1420556AA5495</key>
+		<string>https://github.com/theblanchard/Santa-Monica.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Santa Monica.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1BEF06C5F01E3B69CE02399FAE1420556AA5495</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/theblanchard/Santa-Monica.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1BEF06C5F01E3B69CE02399FAE1420556AA5495</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1BEF06C5F01E3B69CE02399FAE1420556AA5495</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Santa%20Monica</string>
+		</dict>
+	</array>
+</dict>
+</plist>
