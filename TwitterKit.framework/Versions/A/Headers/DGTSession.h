@@ -4,12 +4,13 @@
 //  Copyright (c) 2014 Twitter. All rights reserved.
 //
 
-#import "DGTConstants.h"
+#import "DGTErrors.h"
+#import "TWTRAuthSession.h"
 
 /**
  *  A `DGTSession` object contains user session information after a successful Digits authentication.
  */
-@interface DGTSession : NSObject <NSCoding>
+@interface DGTSession : NSObject <TWTRAuthSession, NSCoding>
 
 /**
  *  The authorization token for this session. Save this token in order to make future authenticated requests to Digits APIs.
